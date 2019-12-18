@@ -1,6 +1,6 @@
 Curso de Algoritmos I: Selection, Insertion e Introdução a Análise
 ---------
-![Curso de Algoritmos I](https://www.alura.com.br/assets/api/cursos/projetos-de-algoritmos-1.svg)
+<img src="https://www.alura.com.br/assets/api/cursos/projetos-de-algoritmos-1.svg" data-canonical-src="https://www.alura.com.br/assets/api/cursos/projetos-de-algoritmos-1.svg" width="250" height="250" />
 
 https://cursos.alura.com.br/course/projetos-de-algoritmos-1
 
